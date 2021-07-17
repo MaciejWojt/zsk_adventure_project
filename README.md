@@ -4,13 +4,13 @@ Prosta platformówka
 
 Podział Prac: 
 
-Amna Mohammad, projektantka struktur i twórczyni grafik w 2D
+Amna M, projektantka struktur i twórczyni grafik w 2D
 
-Wiktor Szymański, twórca systemu punktacji 
+Wiktor S, twórca systemu punktacji 
 
-Kacper Leporowski, programista menu użytkownika i wykonawca skryptów 
+Kacper L, programista menu użytkownika i wykonawca skryptów 
 
-Mateusz Targowski, projektant poziomów i montażysta dźwięku
+Mateusz T, projektant poziomów i montażysta dźwięku
 
-Maciej Wojtkowiak, starosta grupy i koordynator pracy
+Maciej W, starosta grupy i koordynator pracy
 
